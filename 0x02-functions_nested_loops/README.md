@@ -1,1 +1,1 @@
-This is a readme file for nested loops in c programming language
+This is a readme file for c functions and nested loops
